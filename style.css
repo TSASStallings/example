@@ -12,6 +12,7 @@ li {
 a {
     display: block;
     padding: 8px;
+    color: white;
 }
 
 li.current {
