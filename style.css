@@ -18,7 +18,7 @@ li {
     float: left;
     list-style-type: none;
     background-color: #0E3A5C;
-
+    margin: 0 1em 0 1em;
 }
 
 li:hover {
