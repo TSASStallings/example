@@ -3,8 +3,10 @@ body {
   background-color: #346488;
 }
 
-h1 {
-
+menu {
+    background-color: #0E3A5C;
+  width: 100%;
+  position: absolute;
 }
 
 ul {
