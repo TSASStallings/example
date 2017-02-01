@@ -4,9 +4,9 @@ body {
 }
 
 menu {
-    background-color: #0E3A5C;
+  background-color: #0E3A5C;
   width: 100%;
-  position: absolute;
+  margin: 0;
 }
 
 ul {
