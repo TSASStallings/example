@@ -9,6 +9,10 @@ li {
     background-color: #0E3A5C
 }
 
+li:hover {
+    background-color: #7FA4C0;
+}
+
 li a{
     color: white;
     display: block;
