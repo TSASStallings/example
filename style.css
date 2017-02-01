@@ -1,13 +1,21 @@
-body{
+body {
   font-family: "Arial", sans-serif;
   background-color: #346488;
+}
+
+h1 {
+
+}
+
+ul {
+    display: inline-block;
 }
 
 li {
     float: left;
     list-style-type: none;
     background-color: #0E3A5C;
-    display: inline-block;
+
 }
 
 li:hover {
